@@ -1,0 +1,11 @@
+/Users/james.kehoe/RiderProjects/MontyHallSolution/MontyHall/bin/Debug/netcoreapp3.1/MontyHall
+/Users/james.kehoe/RiderProjects/MontyHallSolution/MontyHall/bin/Debug/netcoreapp3.1/MontyHall.deps.json
+/Users/james.kehoe/RiderProjects/MontyHallSolution/MontyHall/bin/Debug/netcoreapp3.1/MontyHall.runtimeconfig.json
+/Users/james.kehoe/RiderProjects/MontyHallSolution/MontyHall/bin/Debug/netcoreapp3.1/MontyHall.runtimeconfig.dev.json
+/Users/james.kehoe/RiderProjects/MontyHallSolution/MontyHall/bin/Debug/netcoreapp3.1/MontyHall.dll
+/Users/james.kehoe/RiderProjects/MontyHallSolution/MontyHall/bin/Debug/netcoreapp3.1/MontyHall.pdb
+/Users/james.kehoe/RiderProjects/MontyHallSolution/MontyHall/obj/Debug/netcoreapp3.1/MontyHall.csprojAssemblyReference.cache
+/Users/james.kehoe/RiderProjects/MontyHallSolution/MontyHall/obj/Debug/netcoreapp3.1/MontyHall.AssemblyInfoInputs.cache
+/Users/james.kehoe/RiderProjects/MontyHallSolution/MontyHall/obj/Debug/netcoreapp3.1/MontyHall.AssemblyInfo.cs
+/Users/james.kehoe/RiderProjects/MontyHallSolution/MontyHall/obj/Debug/netcoreapp3.1/MontyHall.dll
+/Users/james.kehoe/RiderProjects/MontyHallSolution/MontyHall/obj/Debug/netcoreapp3.1/MontyHall.pdb
