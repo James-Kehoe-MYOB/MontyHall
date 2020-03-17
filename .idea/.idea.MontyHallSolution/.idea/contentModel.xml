@@ -24,10 +24,12 @@
         <e p="PrizeDoorSelector.cs" t="Include" />
         <e p="Program.cs" t="Include" />
         <e p="RandomDoorSelector.cs" t="Include" />
+        <e p="Simulator.cs" t="Include" />
       </e>
       <e p="MontyHallSolution.sln" t="IncludeFlat" />
       <e p="MontyHallTests" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
+        <e p="GameTests.cs" t="Include" />
         <e p="MontyHallTests.csproj" t="IncludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
@@ -36,8 +38,9 @@
             </e>
           </e>
         </e>
+        <e p="SimulationTests.cs" t="Include" />
+        <e p="Stub_MontyHallGame.cs" t="Include" />
         <e p="Stub_PrizeDoorSelector.cs" t="Include" />
-        <e p="UnitTest1.cs" t="Include" />
       </e>
       <e p="packages" t="ExcludeRecursive" />
     </e>

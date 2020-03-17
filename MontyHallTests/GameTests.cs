@@ -3,19 +3,19 @@ using MontyHall;
 using Xunit;
 
 namespace MontyHallTests {
-    public class UnitTest1 {
+    public class GameTests {
         [Fact]
         public void CanWinGame() {
             var montyHallGame = new MontyHallGame(1, new Stub_PrizeDoorSelector());
             
-            Assert.True(montyHallGame.win);
+            Assert.True(montyHallGame.hasWon());
         }
         
         [Fact]
         public void CanLoseGame() {
             var montyHallGame = new MontyHallGame(3, new Stub_PrizeDoorSelector());
             
-            Assert.False(montyHallGame.win);
+            Assert.False(montyHallGame.hasWon());
         }
         
         [Fact]

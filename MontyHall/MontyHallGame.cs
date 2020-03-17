@@ -2,8 +2,13 @@ using System;
 using System.Collections.Generic;
 
 namespace MontyHall {
-    public class MontyHallGame {
-        public bool win;
+    public interface IMontyHallGame {
+        bool hasWon();
+        void ChangeDoor();
+    }
+
+    public class MontyHallGame : IMontyHallGame {
+        private bool win;
         private int prize;
         public int choice;
         public int opendoor;
@@ -19,6 +24,10 @@ namespace MontyHall {
             else {
                 win = false;
             }
+        }
+
+        public bool hasWon() {
+            return win;
         }
 
         public void ChangeDoor() {

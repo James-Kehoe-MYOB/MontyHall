@@ -5,7 +5,7 @@ namespace MontyHall {
         static void Main(string[] args) {
             Console.WriteLine("Hello World!");
             var mh = new MontyHallGame(2, new RandomDoorSelector());
-            Console.WriteLine(mh.win);
+            Console.WriteLine(mh.hasWon());
         }
     }
 }
